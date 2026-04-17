@@ -9,9 +9,9 @@
 | Dataset ID | `579896` |
 | Location | Warwick |
 | Category | Restaurants |
-| Full dataset size | 344 records |
-| Free sample size | 51 records (14.83%) |
-| Last export | 2026-03-31T14:10:01.537343+00:00 |
+| Full dataset size | 519 records |
+| Free sample size | 51 records (9.83%) |
+| Last export | 2026-04-14T14:33:56.631735+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-warwick-rhode-island-us-sample-579896/releases/download/sample-latest/beamstation_579896_restaurants-us-ri_SAMPLE_DIST.csv) |
 
 ## What is in this sample
