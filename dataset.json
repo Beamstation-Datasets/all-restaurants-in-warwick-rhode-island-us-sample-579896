@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "Restaurant intelligence dataset for Warwick, Rhode Island. Filtered by the Restaurants category group, providing business profiles, review counts, contact information, and competitive benchmarks. Refreshed weekly.",
   "config_name": "All Restaurants in Warwick, Rhode Island, US",
-  "export_job_id": "19ff7fa7-4e89-4b99-8175-5df5586d3b89",
+  "export_job_id": "e40021b3-a68e-4609-8279-30a1eb4c4708",
   "github_org": "Beamstation-Datasets",
   "id_short": 579896,
   "location_name": "Warwick",
   "location_type": "city",
   "repo_name": "all-restaurants-in-warwick-rhode-island-us-sample-579896",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/579896/beamstation_579896_restaurants-us-ri_SAMPLE_DIST.csv",
-  "sample_pct": 14.83,
+  "sample_pct": 9.83,
   "sample_records": 51,
   "sample_sha256": "60cb96722b81a4bad0e988b6564367d4bdbafd6d8afedef5aba65091984ce045",
   "sample_size_bytes": 200396,
-  "total_records": 344,
-  "updated_at": "2026-03-31T14:10:01.537343+00:00"
+  "total_records": 519,
+  "updated_at": "2026-04-14T14:33:56.631735+00:00"
 }
