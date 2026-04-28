@@ -1,12 +1,12 @@
 {
-  "export_job_id": "94c40e80-db4a-4d35-b57f-5bf1fe132c34",
+  "export_job_id": "ad582fb1-6865-45d9-9993-4b896eb1be3d",
   "id_short": 579896,
-  "published_at": "2026-04-21T19:34:36Z",
+  "published_at": "2026-04-28T19:07:45Z",
   "repo_name": "all-restaurants-in-warwick-rhode-island-us-sample-579896",
   "sample_asset_name": "beamstation_579896_restaurants-us-ri_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/579896/beamstation_579896_restaurants-us-ri_SAMPLE_DIST.csv",
-  "sample_records": 39,
-  "sample_sha256": "c8318485b41b8278dfcdab5b64f936734e36186b31392156688a9b4a59b92774",
-  "sample_size_bytes": 142813,
-  "total_records": 397
+  "sample_records": 52,
+  "sample_sha256": "ee2fe120cb8b6619b36cf61f4869b89f718f4765327e90e82aba04e6f6799440",
+  "sample_size_bytes": 187526,
+  "total_records": 522
 }
