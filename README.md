@@ -1,6 +1,6 @@
 # All Restaurants in Warwick, Rhode Island, US
 
-> Free BeamStation sample export with 52 rows and masked direct-contact fields.
+> Free BeamStation sample export with 54 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `579896` |
 | Location | Warwick |
 | Category | Restaurants |
-| Full dataset size | 522 records |
-| Free sample size | 52 records (9.96%) |
-| Last export | 2026-04-28T16:43:04.620318+00:00 |
+| Full dataset size | 543 records |
+| Free sample size | 54 records (9.94%) |
+| Last export | 2026-05-06T16:02:46.634775+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-warwick-rhode-island-us-sample-579896/releases/download/sample-latest/beamstation_579896_restaurants-us-ri_SAMPLE_DIST.csv) |
 
 ## What is in this sample
